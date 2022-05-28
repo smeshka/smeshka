@@ -1,0 +1,4 @@
+- Hi, I’m smeshka
+- I’m currently learning Python
+- I’m working alone
+- How to reach me: no way 
